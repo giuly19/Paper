@@ -1,0 +1,3 @@
+\@doendnote{endnote9}{It is obvious, for instance, that the vector $y = (1,1,1,\protect \ldots  , 1,1,1)$ made of all $1$'s cannot be in the prime-number space, because it would correspond, at least, to the natural number $n = p_1 p_2 \protect \ldots  p_l$ (i.e. to the number given by the product of all the $l$ primes) which is much great than the maximum number $q$ of the interval. Similar consideration may be applied to other boolean $l$-dimensional vectors.}
+\@doendnote{endnote10}{Don Zagier, private communication}
+\@doendnote{endnote11}{A potential critical behavior would not be affected by the boundary condition employed. Chosing the periodic one is simply a way to make the finite size scaling as fast as possible.}
